@@ -30,7 +30,13 @@ export default function Landing() {
                 </p>
 
                 <p className="text-sm text-blue-700">
-                    Functional MVP currently available for pilot review and organisational evaluation.
+                    Functional MVP currently available for pilot review and organisational evaluation.<br></br>
+                    <b>Pilot & Evaluation Enquiries : </b> <a
+                href="mailto:halcyonacademyofficial@gmail.com"
+                className="text-blue-700 font-medium hover:underline"
+            >
+                halcyonacademyofficial@gmail.com
+            </a>
                 </p>
 
                 </div>
@@ -38,20 +44,6 @@ export default function Landing() {
             </div>
         </div>
 
-        <div className="mt-4 text-center">
-
-            <p className="text-sm text-gray-600">
-                Pilot & Evaluation Enquiries
-            </p>
-
-            <a
-                href="mailto:halcyonacademyofficial@gmail.com"
-                className="text-blue-700 font-medium hover:underline"
-            >
-                halcyonacademyofficial@gmail.com
-            </a>
-
-            </div>
 
         <div className="bg-blue-700 text-white rounded-3xl p-10 mb-12 max-w-6xl w-full shadow-xl">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
