@@ -17,6 +17,27 @@ export default function Landing() {
           escalation scoring, incident reporting, training, and analytics.
         </p>
 
+        <div className="mb-10">
+
+            <div className="inline-flex items-center gap-3 bg-blue-50 border border-blue-200 text-blue-800 px-6 py-4 rounded-2xl shadow-sm">
+
+                <div className="w-3 h-3 rounded-full bg-green-500 animate-pulse"></div>
+
+                <div className="text-left">
+
+                <p className="font-semibold">
+                    Pilot Evaluation Access Available
+                </p>
+
+                <p className="text-sm text-blue-700">
+                    Functional MVP currently available for pilot review and organisational evaluation.
+                </p>
+
+                </div>
+
+            </div>
+            </div>
+
         <div className="bg-blue-700 text-white rounded-3xl p-10 mb-12 max-w-6xl w-full shadow-xl">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
                 
