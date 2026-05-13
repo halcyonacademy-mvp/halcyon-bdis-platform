@@ -36,6 +36,21 @@ export default function Landing() {
                 </div>
 
             </div>
+        </div>
+
+        <div className="mt-4 text-center">
+
+            <p className="text-sm text-gray-600">
+                Pilot & Evaluation Enquiries
+            </p>
+
+            <a
+                href="mailto:halcyonacademyofficial@gmail.com"
+                className="text-blue-700 font-medium hover:underline"
+            >
+                halcyonacademyofficial@gmail.com
+            </a>
+
             </div>
 
         <div className="bg-blue-700 text-white rounded-3xl p-10 mb-12 max-w-6xl w-full shadow-xl">
